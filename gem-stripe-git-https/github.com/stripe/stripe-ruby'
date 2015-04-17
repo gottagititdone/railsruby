@@ -1,0 +1,2 @@
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
+$ rails g controller charges
